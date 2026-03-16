@@ -1,101 +1,140 @@
-Last updated: 2026.2.22
+# Privacy Policy — BracesOff
 
-BracesOff ("BracesOff", "we", "our") is a mobile application that uses AI-powered technology to apply braces addition, braces removal, teeth straightening, and teeth whitening transformations to user-uploaded photos. This Privacy Policy explains what information we collect, how we use it, and how we protect your privacy. By using BracesOff, you agree to the practices described in this policy.
+Last Updated: 2026/3/16
+
+## 1. Acceptance of Terms
+
+BracesOff ("BracesOff", "we", "us", or "our") is committed to protecting your privacy. This Privacy Policy applies to BracesOff and its various versions and is part of our Terms of Use. By accessing or using our Application, you acknowledge and fully understand this Privacy Policy and freely consent to the practices described here.
 
 **None of the data collected by this app is linked to your identity.**
 
-# 1. Data We Collect
+## 2. Data We Collect
 
 We collect the following categories of data, none of which is linked to your identity:
 
-## User Content
+### User Content
 
-**Photos or Videos** - Used for App Functionality
+**Photos or Videos** — Used for App Functionality
 
-You may upload or capture photos solely to visualize braces addition, braces removal, teeth straightening, or teeth whitening effects. Photos are sent temporarily to our AI provider (Replicate, Inc.) for processing and are automatically discarded after the transformation is complete. We do not store, extract, or analyze facial features for identification or profiling purposes.
+You may upload or capture photos solely for AI-powered braces addition, braces removal, teeth straightening, and teeth whitening transformations. Photos are sent temporarily to our AI provider for processing and are automatically discarded once the transformation is complete. We do not store, extract, or analyze facial features for identification or profiling purposes.
 
-## Identifiers
+### Identifiers
 
-**Device ID** - Used for Analytics, and Other Purposes
+**Device ID** — Used for Analytics, and Other Purposes
 
-An anonymous device identifier is collected by AIProxy to ensure secure and reliable AI service routing. This identifier is not linked to your personal identity.
+An anonymous device identifier is collected to ensure secure and reliable AI service routing. This identifier is not linked to your personal identity.
 
-## Purchases
+### Purchases
 
-**Purchase History** - Used for App Functionality, and Analytics
+**Purchase History** — Used for App Functionality, and Analytics
 
-If you make in-app purchases, transaction data is processed by Apple and RevenueCat to manage your subscription or credits. This data is used to provide access to premium features and to analyze purchasing trends in aggregate.
+If you make in-app purchases, transaction data is processed by Apple and RevenueCat to manage your subscription. This data is used to provide access to premium features and to analyze purchasing trends in aggregate.
 
-## Usage Data
+### Usage Data
 
-**Product Interaction** - Used for Analytics
+**Product Interaction** — Used for Analytics
 
 We collect anonymous data about how you interact with the app (e.g., screens viewed, features used) through Firebase Analytics. This helps us understand how the app is used and identify areas for improvement.
 
-## Diagnostics
+### Diagnostics
 
-**Crash Data** - Used for App Functionality
+**Crash Data** — Used for App Functionality
 
 Crash reports are collected through Firebase Crashlytics to help us identify and fix issues that affect app stability.
 
-**Other Diagnostic Data** - Used for App Functionality, and Analytics
+**Other Diagnostic Data** — Used for App Functionality, and Analytics
 
 Additional diagnostic information (e.g., performance metrics, error logs) may be collected to monitor app health and improve reliability.
 
-## Other Data
+### Other Data
 
-**Other Data Types** - Used for Other Purposes, and Analytics
+**Other Data Types** — Used for Other Purposes, and Analytics
 
-Anonymous service data, including IP address, is collected by AIProxy to ensure secure and safe AI service routing.
+Anonymous service data, including IP address, is collected to ensure secure and safe AI service routing.
 
-# 2. How We Process Your Photos
+## 3. Face Data Collection, Use, and Retention
 
-- **Temporary processing:** Uploaded photos are sent temporarily to our third-party AI provider, Replicate, Inc., for braces addition/removal, teeth straightening, and teeth whitening transformations.
-- **No storage:** Once the transformation is complete, the image is returned to your device and the photo is automatically discarded.
-- **No biometric analysis:** The app does not extract or analyze facial features for identification or profiling purposes.
-- **No human review:** All processing is handled by automated models. We do not access or view your images unless you explicitly contact our support team for help.
+This section describes in detail how BracesOff handles face data in compliance with Apple's App Store Review Guidelines (5.1.1).
 
-# 3. Third-Party Services
+### What face data does the app collect?
+
+BracesOff does **not** collect, store, or retain any face data. Photos you upload may contain faces, but the app does not extract, analyze, or store any facial features, biometric identifiers, or face geometry data. The uploaded photo is processed as a whole image; no face-specific data is isolated or recorded at any point.
+
+### How is face data used?
+
+Photos containing faces are used **solely** to provide AI-powered braces addition, braces removal, teeth straightening, and teeth whitening transformations. The processing is entirely automated by AI models that apply visual transformations to the image. The app does not perform facial recognition, face mapping, identity analysis, or any form of biometric identification. No face data is used for advertising, profiling, or any purpose beyond delivering the requested transformation.
+
+### Is face data shared with third parties?
+
+Photos are transmitted to our third-party AI processing provider, Replicate, Inc., solely for the purpose of performing the requested transformation. Replicate processes the image, returns the result, and **immediately discards** the original photo. Replicate does not store, retain, or reuse uploaded images. Replicate does not extract or retain any face data, biometric identifiers, or facial features from the images it processes.
+
+No other third party receives or has access to your photos or any face data.
+
+### How long is face data retained?
+
+Face data is **not retained** by us or by any third party. Photos exist in Replicate's processing pipeline only for the duration of the transformation (typically seconds) and are automatically discarded upon completion. We do not maintain any copies, backups, or derivatives of your photos on our servers.
+
+### Summary
+
+| Question | Answer |
+|----------|--------|
+| Face data collected? | No. Photos processed as whole images; no face data extracted. |
+| Face data stored? | No. Not retained by us or any third party. |
+| Biometric analysis performed? | No. No facial recognition, face mapping, or identity analysis. |
+| Face data shared? | Photos sent to Replicate for processing only; immediately discarded. |
+| Replicate stores face data? | No. Discarded immediately after transformation. |
+| Face data used for profiling? | No. Used solely for visual transformation. |
+
+## 4. How We Process Your Photos
+
+- **Temporary processing:** Uploaded photos are sent to our third-party AI provider, Replicate, Inc., for AI-powered braces addition, braces removal, teeth straightening, and teeth whitening transformations.
+- **No storage:** Once the transformation is complete, the image is returned to your device and the original photo is automatically discarded by Replicate. We do not store photos on our own servers.
+- **No biometric analysis:** The app does not extract or analyze facial features for identification or profiling purposes. No biometric identifiers are created, inferred, or retained.
+- **No human review:** All processing is handled by automated AI models. No employee accesses or views your images unless you explicitly contact our support team for help.
+
+## 5. Third-Party Services
 
 We use the following third-party services:
 
-- **Replicate, Inc.** - AI-powered braces and teeth transformations. Uploaded content is used only for temporary processing and is not stored or used for profiling.
-- **RevenueCat** - Subscription and purchase management. Collects device identifiers and purchase history to manage entitlements.
-- **Firebase Analytics** - Anonymous usage analytics. Collects device identifiers and product interaction data.
-- **Firebase Crashlytics** - Crash reporting and diagnostics. Collects crash data and diagnostic information.
-- **Firebase Remote Config** - App configuration delivery.
-- **AIProxy** - Secure AI service routing. Uses an anonymous stable identifier.
-- **Apple In-App Purchases** - Secure transaction handling.
+- **Replicate, Inc.** — AI-powered photo transformations. Uploaded content is used only for temporary processing and is immediately discarded. Replicate does not store, retain, or reuse uploaded images or any face data derived from them.
+- **RevenueCat** — Subscription and purchase management. Collects device identifiers and purchase history to manage entitlements.
+- **Firebase Analytics** — Anonymous usage analytics. Collects device identifiers and product interaction data.
+- **Firebase Crashlytics** — Crash reporting and diagnostics. Collects crash data and diagnostic information.
+- **Firebase Remote Config** — App configuration delivery. No user data collected.
+- **AIProxy** — Secure AI service routing. Uses an anonymous stable device identifier and collects IP address for security purposes.
+- **Apple In-App Purchases** — Secure transaction handling.
 
 These services process data only to the extent required for their core functions. None of the data collected is linked to your personal identity.
 
-# 4. Data Retention
+## 6. Data Retention
 
-- **Photos:** Not stored. Deleted immediately after transformation.
+- **Photos:** Not stored. Discarded immediately after transformation by Replicate.
+- **Face data:** Not retained. No face data is extracted, stored, or retained at any point.
 - **Analytics and diagnostics:** Retained in anonymous, aggregated form by third-party providers according to their own retention policies.
 - **Purchase information:** Managed by Apple and RevenueCat under their respective privacy and retention policies.
 - **No user data is linked to personal identity.**
 
-# 5. Security Measures
+## 7. Data Security
 
-- All data transmission is encrypted.
-- Photo processing is fully automated.
+- All data transmission between your device, our services, and third-party providers is encrypted.
+- Photo processing is fully automated with no human access.
 - No employee has access to your photos unless you explicitly request support.
 - We do not store, analyze, or share biometric or facial data.
+- We apply appropriate technical and organizational measures to protect your data. While no system can guarantee 100% security, we continuously work to safeguard your information.
 
-# 6. Children's Privacy
+## 8. Children's Privacy
 
 BracesOff is not designed for users under age 4. We do not knowingly collect any data from children. If you believe data was shared with us in error, please contact us at tunahanaktay.apps@gmail.com and we will delete it immediately.
 
-# 7. International Transfers
+## 9. International Transfers
 
 Some temporary photo processing and analytics may occur on cloud servers located outside your country. All processing is done under secure, GDPR-compliant infrastructure.
 
-# 8. Changes to This Policy
+## 10. Changes to This Policy
 
-We may revise this policy from time to time. Please refer to the "Last updated" date to check for changes.
+We may update this Privacy Policy from time to time. The updated version will be posted here with a revised "Last Updated" date. Continued use of the Application constitutes acceptance of the updated terms.
 
-# 9. Contact Us
+## 11. Contact Us
 
 If you have any questions or concerns about this Privacy Policy or our data practices, please contact us:
 
