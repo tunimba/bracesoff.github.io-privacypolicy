@@ -1,6 +1,6 @@
 # Privacy Policy — BracesOff
 
-Last Updated: 2026/3/16
+Last Updated: 2026/4/3
 
 ## 1. Acceptance of Terms
 
